@@ -1,99 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/blog/2019/10/28/hello-world/"/>
-      <url>/blog/2019/10/28/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>你了解自己究竟想要什么吗？</title>
-      <link href="/blog/2019/10/20/20191020%E8%BF%B7%E8%8C%AB%E4%BA%BA%E7%94%9F/"/>
-      <url>/blog/2019/10/20/20191020%E8%BF%B7%E8%8C%AB%E4%BA%BA%E7%94%9F/</url>
-      
-        <content type="html"><![CDATA[<p>&emsp;&emsp;今晚出去跑步，跑完之后散步进行缓冲，听着音乐，看着人来人往的人，总是会想着各种各样的问题，思考人生。这是我毕业之后的第三个月，这几个月的时间里，我每天都感觉时间过得很快，感觉工作填满了我的生活，每天晚上一回到家，刷了会抖音，刷了会学习强国，不知不觉就八九点了。但是我却还想运动，想要学习，想要打游戏，太多太多想做的事情，但是我腾不出时间，我不懂时间去哪了。<br>&emsp;&emsp;我今晚在回来的路上我就在想，我自己究竟想要什么？其实我想要运动，因为我想要一个健康的身体，我喜欢打球，如果我想要打得好，我就必须加强体力训练，但是我每次想要运动的时候，我就一直在纠结，我有没有时间，因为一运动就需要一段比较长的空闲时间。而我不确定我是否有必要花费这一大段时间，我不清楚我自己的需求，我不懂我想做的这件事究竟值不值得我去做。<br>&emsp;&emsp;最近真的发生了很多事，我的整个人生规划都被打乱了，女朋友父母的态度，想考公务员的悸动，都在左右拉扯着我，我的目标现在很迷茫，我需要好好思考一下我的整个目标，需要给自己做好规划。<br>&emsp;&emsp;首先，我觉得运动，锻炼身体这是每天必须做的，他值得我花这个时间和精力，因为我喜欢羽毛球这项运动。<br>&emsp;&emsp;其次，我需要先把除了王者之外的游戏戒了，王者只是我周末偶尔拿来和朋友消遣的唯一途径，不能无谓的增加其他消磨时间的娱乐。<br>&emsp;&emsp;最后，我需要寻找一个地方，可以让我静下心来学习的，我需要重回生活的正轨，无论是考公还是工作，整个人生都是需要不断的学习，学无止境。<br>&emsp;&emsp;希望将来的我能早日摆脱迷茫，找到真正的自我。</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F10%2F28%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[你了解自己究竟想要什么吗？]]></title>
+    <url>%2F2019%2F10%2F20%2F20191020%E8%BF%B7%E8%8C%AB%E4%BA%BA%E7%94%9F%2F</url>
+    <content type="text"><![CDATA[&emsp;&emsp;今晚出去跑步，跑完之后散步进行缓冲，听着音乐，看着人来人往的人，总是会想着各种各样的问题，思考人生。这是我毕业之后的第三个月，这几个月的时间里，我每天都感觉时间过得很快，感觉工作填满了我的生活，每天晚上一回到家，刷了会抖音，刷了会学习强国，不知不觉就八九点了。但是我却还想运动，想要学习，想要打游戏，太多太多想做的事情，但是我腾不出时间，我不懂时间去哪了。&emsp;&emsp;我今晚在回来的路上我就在想，我自己究竟想要什么？其实我想要运动，因为我想要一个健康的身体，我喜欢打球，如果我想要打得好，我就必须加强体力训练，但是我每次想要运动的时候，我就一直在纠结，我有没有时间，因为一运动就需要一段比较长的空闲时间。而我不确定我是否有必要花费这一大段时间，我不清楚我自己的需求，我不懂我想做的这件事究竟值不值得我去做。&emsp;&emsp;最近真的发生了很多事，我的整个人生规划都被打乱了，女朋友父母的态度，想考公务员的悸动，都在左右拉扯着我，我的目标现在很迷茫，我需要好好思考一下我的整个目标，需要给自己做好规划。&emsp;&emsp;首先，我觉得运动，锻炼身体这是每天必须做的，他值得我花这个时间和精力，因为我喜欢羽毛球这项运动。&emsp;&emsp;其次，我需要先把除了王者之外的游戏戒了，王者只是我周末偶尔拿来和朋友消遣的唯一途径，不能无谓的增加其他消磨时间的娱乐。&emsp;&emsp;最后，我需要寻找一个地方，可以让我静下心来学习的，我需要重回生活的正轨，无论是考公还是工作，整个人生都是需要不断的学习，学无止境。&emsp;&emsp;希望将来的我能早日摆脱迷茫，找到真正的自我。]]></content>
       <categories>
-          
-          <category> 生活 </category>
-          
+        <category>生活</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 困扰 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>如何用Hexo + 码云创建个人博客</title>
-      <link href="/blog/2019/10/18/Hexo%20+%20%E7%A0%81%E4%BA%91%E5%88%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-      <url>/blog/2019/10/18/Hexo%20+%20%E7%A0%81%E4%BA%91%E5%88%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
-      
-        <content type="html"><![CDATA[<p>前段时间忙里偷闲自己用Hexo + 码云创建了一个个人博客，既然已经搭建好了，那就应该和大家一起分享一下，虽然网上的资料已经很多了，但是还是想帮大家整合一下。</p>]]></content>
-      
-      
+      <tags>
+        <tag>困扰</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[如何用Hexo + 码云创建个人博客]]></title>
+    <url>%2F2019%2F10%2F18%2FHexo%20%2B%20%E7%A0%81%E4%BA%91%E5%88%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%2F</url>
+    <content type="text"><![CDATA[前段时间忙里偷闲自己用Hexo + 码云创建了一个个人博客，既然已经搭建好了，那就应该和大家一起分享一下，虽然网上的资料已经很多了，但是还是想帮大家整合一下。]]></content>
       <categories>
-          
-          <category> 前端 </category>
-          
+        <category>前端</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> Hexo </tag>
-            
-            <tag> 个人博客 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>病态</title>
-      <link href="/blog/2019/09/26/%E7%97%85%E6%80%81/"/>
-      <url>/blog/2019/09/26/%E7%97%85%E6%80%81/</url>
-      
-        <content type="html"><![CDATA[<p>这星球像一颗胚胎</p><p>将我们温柔地覆盖</p><p>黎明后积极地运载</p><p>夜里清醒地掩埋</p><p>时间的皱褶 都是空白</p><p>有人在缅怀 有人期待</p><p>欲望的收割 都是腐坏</p><p>没有人再灌溉</p><p>等待 失重的时代坠落下来</p><p>在末日的午后 百无聊赖</p><p>斑驳的黑白 复制病态</p><p>蒸发稀薄的爱</p><p>直到 倾斜的城市无法负载</p><p>任贪婪的我们稀释人海</p><p>别缅怀 何为爱</p><p>我们在迂回的站台</p><p>舔舐一切喜怒悲哀</p><a id="more"></a><p>持续分裂繁衍后代</p><p>重复相遇停靠离开</p><p>回忆的缝隙 都是尘埃</p><p>麻木的转载 语言苍白</p><p>孤独的行走 渴求被爱</p><p>在迷途中醒来</p><p>等待 失重的时代坠落下来</p><p>在末日的午后 百无聊赖</p><p>斑驳的黑白 复制病态</p><p>蒸发稀薄的爱</p><p>直到 倾斜的城市无法负载</p><p>任贪婪的我们稀释人海</p><p>别缅怀 何为爱</p><p>等待 失控的时代坠落下来</p><p>在忏悔过以后不知悔改</p><p>颠倒的黑白 陆离光怪</p><p>嘲弄稀有的爱</p><p>直到 病态的时代无力负载</p><p>任造作的我们盲目崇拜</p><p>再缅怀 何为爱</p><p>为何爱</p>]]></content>
-      
-      
+      <tags>
+        <tag>Hexo</tag>
+        <tag>个人博客</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[病态]]></title>
+    <url>%2F2019%2F09%2F26%2F%E7%97%85%E6%80%81%2F</url>
+    <content type="text"><![CDATA[这星球像一颗胚胎将我们温柔地覆盖黎明后积极地运载夜里清醒地掩埋时间的皱褶 都是空白有人在缅怀 有人期待欲望的收割 都是腐坏没有人再灌溉等待 失重的时代坠落下来在末日的午后 百无聊赖斑驳的黑白 复制病态蒸发稀薄的爱直到 倾斜的城市无法负载任贪婪的我们稀释人海别缅怀 何为爱我们在迂回的站台舔舐一切喜怒悲哀 持续分裂繁衍后代 重复相遇停靠离开 回忆的缝隙 都是尘埃 麻木的转载 语言苍白 孤独的行走 渴求被爱 在迷途中醒来 等待 失重的时代坠落下来 在末日的午后 百无聊赖 斑驳的黑白 复制病态 蒸发稀薄的爱 直到 倾斜的城市无法负载 任贪婪的我们稀释人海 别缅怀 何为爱 等待 失控的时代坠落下来 在忏悔过以后不知悔改 颠倒的黑白 陆离光怪 嘲弄稀有的爱 直到 病态的时代无力负载 任造作的我们盲目崇拜 再缅怀 何为爱 为何爱]]></content>
       <categories>
-          
-          <category> 音乐 </category>
-          
+        <category>音乐</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 歌词 </tag>
-            
-            <tag> 薛之谦 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>歌词</tag>
+        <tag>薛之谦</tag>
+      </tags>
+  </entry>
 </search>
